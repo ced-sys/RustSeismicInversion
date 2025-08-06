@@ -1,0 +1,1 @@
+fn(_, RangeTo<usize>) -> std::ops::Range<usize> {range::<_>}
