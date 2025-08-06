@@ -1,3 +1,6 @@
 [submodule "C++-seismic-inversion"]
 	path = C++-seismic-inversion
 	url = git@github.com:ced-sys/CxxSeismicInversion.git
+[submodule "rust-seismic-inversion"]
+	path = rust-seismic-inversion
+	url = git@github.com:ced-sys/RustSeismicInversion.git
